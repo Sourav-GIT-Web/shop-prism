@@ -1,4 +1,18 @@
 :root {
-  --color-brand-primary: #7743DB;
-  --spacing-medium: 16px;
+  /* Primitives (Base Values) */
+  --red-600: #dc2626;
+  --amber-500: #f59e0b;
+  --gray-100: #f3f4f6;
+
+  /* Semantic Commerce Tokens */
+  --color-sale: var(--red-600);
+  --color-urgency: var(--amber-500);
+  
+  /* Component Aliases */
+  --product-card-bg: #ffffff;
+  --product-card-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --checkout-button-bg: var(--color-sale);
 }
+
+/* Add all design tokens here, such as colors, typography, spacing, etc. This file serves as a central place to manage and maintain design tokens for the project. */
+

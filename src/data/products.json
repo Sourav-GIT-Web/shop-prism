@@ -1,0 +1,22 @@
+[
+  { "id": "1", "name": "Basic Tee", "price": 29, "image": "/assets/tee-1.jpg",   "category": "tshirts" },
+  { "id": "2", "name": "Premium Hoodie", "price": 79, "image": "/assets/hoodie-1.jpg" ,   "category": "hoodies"},
+  { "id": "3", "name": "Capsule Backpack", "price": 149, "image": "/assets/bag-1.jpg" , "category": "bags" },
+  { "id": "4", "name": "Classic Sneakers", "price": 89, "image": "/assets/shoe-1.jpg" , "category": "shoes" },
+  { "id": "5", "name": "Graphic Tee", "price": 35, "image": "/assets/tee-2.jpg" ,   "category": "tshirts"},
+  { "id": "6", "name": "Zip-Up Hoodie", "price": 69, "image": "/assets/hoodie-2.jpg" ,   "category": "hoodies"},
+  { "id": "7", "name": "Travel Duffel", "price": 129, "image": "/assets/bag-2.jpg" ,   "category": "bags"},
+  { "id": "8", "name": "Running Shoes", "price": 99, "image": "/assets/shoe-2.jpg" ,   "category": "shoes"},
+  { "id": "9", "name": "Vintage Tee", "price": 25, "image": "/assets/tee-3.jpg" ,   "category": "tshirts"},
+  { "id": "10", "name": "Fleece Hoodie", "price": 59, "image": "/assets/hoodie-3.jpg" ,   "category": "hoodies"},
+  { "id": "11", "name": "Laptop Backpack", "price": 139, "image": "/assets/bag-3.jpg" ,   "category": "bags"},
+  { "id": "12", "name": "High-Top Sneakers", "price": 109, 	"image": "/assets/shoe-3.jpg" ,  	"category":"shoes"},
+  { "id": "13", "name": "Striped Tee", "price": 32, "image": "/assets/tee-4.jpg" ,   "category": "tshirts"},
+  { "id": "14", "name": "Pullover Hoodie", "price": 74, "image": "/assets/hoodie-4.jpg" ,   "category": "hoodies"},
+  { "id": "15", "name": "Weekend Bag", "price": 119, "image": "/assets/bag-4.jpg" ,   "category": "bags"},
+  { "id": "16", "name": "Casual Sneakers", "price": 79, "image": "/assets/shoe-4.jpg" ,   "category": "shoes"},
+  { "id": "17", "name": "Graphic Tee", "price": 30, "image": "/assets/tee-5.jpg" ,   "category": "tshirts"},
+  { "id": "18", "name": "Hooded Sweatshirt", "price": 65, "image": "/assets/hoodie-5.jpg" ,   "category": "hoodies"},
+  { "id": "19", "name": "City Backpack", "price": 129, "image": "/assets/bag-5.jpg" ,   "category": "bags"},
+  { "id": "20", "name": "Sport Sneakers", "price": 89, "image": "/assets/shoe-5.jpg" ,   "category": "shoes"}
+]
